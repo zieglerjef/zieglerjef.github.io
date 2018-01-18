@@ -1,6 +1,6 @@
 ---
 layout: page
-title: about
+title: About me
 
 ---
 
@@ -15,7 +15,7 @@ This site includes data, research, and other resources (mainly R examples).
 ---
 
 <div class="container">
-<h4><a name="contact"></a>contact</h4>
+<h4><a name="contact"></a>Contact Me</h4>
 
     <div class="row-fluid">
         <div class="span5">
