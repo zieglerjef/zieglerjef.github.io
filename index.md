@@ -1,9 +1,6 @@
 ---
 layout: frontpage
-title: Jeff Ziegler
-description: Currently I’m a PhD student in Political Science at Washington University in St. Louis. My research broadly relates to the legitimacy, responsiveness, and political efforts of international non-governmental organizations, including the Catholic Church.
-
-This site includes data, research, and other resources (mainly R examples).
+title: About me
 ---
 
 <div class="navbar">
@@ -16,3 +13,8 @@ This site includes data, research, and other resources (mainly R examples).
       </ul>
   </div>
 </div>
+
+
+Currently I’m a PhD student in Political Science at Washington University in St. Louis. My research broadly relates to the legitimacy, responsiveness, and political efforts of international non-governmental organizations, including the Catholic Church.
+
+This site includes data, research, and other resources (mainly R examples).
