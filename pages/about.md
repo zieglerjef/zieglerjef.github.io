@@ -8,9 +8,8 @@ Currently I’m a PhD student in Political Science at Washington University in S
 
 This site includes data, research, and other resources (mainly R examples).
 
-[curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/JeffZiegler_cv.pdf)<br/>
-[google scholar](https://scholar.google.com/citations?user=PE2j3DcAAAAJ&hl=sv)<br/>
-[impactstory](https://impactstory.org/u/0000-0002-4914-6671)
+[CV ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/JeffZiegler_cv.pdf)<br/>
+[Google Scholar](https://scholar.google.com/citations?user=PE2j3DcAAAAJ&hl=sv)<br/>
 
 ---
 
@@ -28,10 +27,10 @@ One Brookings Drive, St. Louis, MO 63130<br/>
             USA<br/><br/>
 
             <div id="hide_email">
-            Email: <code>kbro</code><b>I</b><code>man</code><b>don't</b><code>@</code><b>want</b><code>bio</code><b>spam!
-            </b><code>stat</code><b>So</b><code>.</code><b>please</b><code>wi</code><b>leave
-            </b><code>sc</code><b>me</b><code>.</code><b>alone</b><code>e</code><b>!</b><code>du</code><br/>
-            </div>
+            Email: <code>jeffrey</code><b>I</b><code>ziegler</code><b>don't</b><code>@</code><b>want</b><code>wu</code><b>spam!
+            </b><code>stl</code><code>.</code><b>please</b><code>e</code><b>leave
+            </b><code>d</code><b>me</b><b>alone</b><code>u</code><b>!</b>
+	</div>
         </div>
 
         <div class="span2">
