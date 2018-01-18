@@ -8,7 +8,7 @@ Currently I’m a PhD student in Political Science at Washington University in S
 
 This site includes data, research, and other resources (mainly R examples).
 
-[CV ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/JeffZiegler_cv.pdf)<br/>
+[CV ![CV as pdf](icons16/pdf-icon.png)](/assets/JeffZiegler_CV.pdf)<br/>
 [Google Scholar](https://scholar.google.com/citations?user=PE2j3DcAAAAJ&hl=sv)<br/>
 
 ---
@@ -34,7 +34,7 @@ One Brookings Drive, St. Louis, MO 63130<br/>
         </div>
 
         <div class="span2">
-            <img src="../assets/pics/homepagePhoto.jpg"
+            <img src="/assets/pics/homepagePhoto.jpg"
                   title=“Jeff Ziegler” alt="Jeff Ziegler"/>
         </div>
     </div>
