@@ -35,9 +35,8 @@ One Brookings Drive, St. Louis, MO 63130<br/>
         </div>
 
         <div class="span2">
-        <a href="../assets/pics/homepagePhoto.jpg”>
             <img src="../assets/pics/homepagePhoto.jpg"
-                  title=“Jeff Ziegler” alt="Jeff Ziegler"/></a>
+                  title=“Jeff Ziegler” alt="Jeff Ziegler"/>
         </div>
     </div>
 </div>
