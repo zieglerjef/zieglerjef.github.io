@@ -1,7 +1,9 @@
 ---
 layout: frontpage
 title: Jeff Ziegler
-description: Jeff Ziegler is Professor in Biostatistics and Medical Informatics at University of Wisconsin - Madison; research in statistical genetics
+description: Currently I’m a PhD student in Political Science at Washington University in St. Louis. My research broadly relates to the legitimacy, responsiveness, and political efforts of international non-governmental organizations, including the Catholic Church.
+
+This site includes data, research, and other resources (mainly R examples).
 ---
 
 <div class="navbar">
