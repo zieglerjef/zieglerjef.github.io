@@ -1,10 +1,9 @@
 ---
 layout: page
-title: About me
+title: Contact me
 
 ---
 <div class="container">
-<h4><a name="contact"></a>Contact Me</h4>
 
     <div class="row-fluid">
         <div class="span5">
