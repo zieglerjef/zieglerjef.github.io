@@ -7,5 +7,5 @@ Currently I’m a PhD student in Political Science at Washington University in S
 
 This site includes data, research, and other resources (mainly R examples).
 
-[CV ![CV as pdf](../icons16/pdf-icon.png)](assets/JeffZiegler_CV.pdf)<br/>
+[CV![pdf](icons16/pdf-icon.png)](assets/JeffZiegler_CV.pdf)
 [Google Scholar](https://scholar.google.com/citations?user=PE2j3DcAAAAJ&hl=sv)<br/>
