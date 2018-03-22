@@ -23,7 +23,7 @@ One Brookings Drive, St. Louis, MO 63130<br/>
         </div>
 
         <div class="span2">
-	[[/assets/pics/homepagePhoto.jpg|ALT TEXT]]
+	<img src="assets/pics/homepagePhoto.jpg" alt="hi" class="inline"/>
         </div>
     </div>
 </div>
