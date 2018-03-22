@@ -23,7 +23,7 @@ One Brookings Drive, St. Louis, MO 63130<br/>
         </div>
 
         <div class="span2">
-	[[zieglerjef.github.io/assets/pics/homepagePhoto.jpg|ALT TEXT]]
+	[[assets/pics/homepagePhoto.jpg|ALT TEXT]]
         </div>
     </div>
 </div>
