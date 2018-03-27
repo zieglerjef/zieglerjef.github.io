@@ -30,5 +30,4 @@ description: Jeff Ziegler's teaching
 
 - Ethnic Conflict: Causes and Remedies (Spring 2015; Instructor: Sunita Parikh)
 
-- Law, Politics, and Society (Fall 2015; Instructor: James L. Gibson
-
+- Law, Politics, and Society (Fall 2015; Instructor: James L. Gibson)
