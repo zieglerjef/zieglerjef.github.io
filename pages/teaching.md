@@ -1,7 +1,7 @@
 ---
 layout: page
 title: teaching
-description: Karl Broman's teaching
+description: Jeff Ziegler's teaching
 ---
 
 <div class="navbar">
@@ -12,7 +12,7 @@ description: Karl Broman's teaching
         </ul>
     </div>
 </div>
-### <a name="TA"></a>Instructor
+### <a name="instructor"></a>Instructor
 
 #### Introduction to International Politics (Fall 2018; University College: Washington University in St. Louis)
 
