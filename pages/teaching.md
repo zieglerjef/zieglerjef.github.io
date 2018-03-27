@@ -1,6 +1,6 @@
 ---
 layout: page
-title: teaching
+title: Teaching
 description: Jeff Ziegler's teaching
 ---
 
