@@ -30,3 +30,5 @@ Bechtel, Michael M. and **Jeffrey Ziegler**. ”How Political or Humanitarian Is
 
 Carlson, David and **Jeffrey Ziegler**. ”Do Voters Trump Business? Regime Type and International Financial Treaty
 Violations”.
+
+### <a name="articles"></a>Grants and awards
