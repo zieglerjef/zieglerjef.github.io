@@ -14,7 +14,7 @@ This site includes data, research, and other resources (mainly R examples).<br/>
 <a href="assets/JeffZiegler_CV.pdf">	CV <img src="pages/icons16/pdf-icon.png" alt="hi" class="inline"/>
 </a><br/>
 
-[Google Scholar](https://scholar.google.com/citations?user=PE2j3DcAAAAJ&hl=sv)<br/>
+<a href="https://scholar.google.com/citations?user=PE2j3DcAAAAJ&hl=sv)>Google Scholar</a><br/>
 		</div>
 	        <div class="span4">
 		<img src="../assets/pics/Jeff_Ziegler.jpg" alt="hi" class="inline"/>
