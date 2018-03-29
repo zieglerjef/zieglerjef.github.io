@@ -32,3 +32,17 @@ Carlson, David and **Jeffrey Ziegler**. ”Do Voters Trump Business? Regime Type
 Violations”.
 
 ### <a name="articles"></a>Grants and awards
+
+- Graduate Research Seed Grant, Washington University in St. Louis, Department of Political Science (2018)
+
+- Dissertation Support, Danforth Center on Religion and Politics (2018)
+
+- Lois Roth Endowment, Fulbright Project Support (2014)
+
+- Fulbright Research Grant, Umeå University (2013-2014;Adviser: Torbjörn Bergman)
+
+- Gudrun Gytel Fund Scholarship (2011)
+
+- Larsen Family Scholarship (2011)
+
+- ScanDesign Scholarship (2011)
