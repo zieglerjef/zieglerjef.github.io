@@ -22,9 +22,9 @@ the ’Rule, Learn, Update’ Model of Political Communication”. American Poli
 
 ### <a name="workingPapers"></a>Working papers
 
-**Ziegler, Jeffrey**. ”Serving the Masses, Religious or Not: Rhetorical Responsiveness in International NGOs”.
+**Ziegler, Jeffrey**. ”Serving the Masses: Responsiveness in International NGOs”.
 
-**Ziegler, Jeffrey**. ”How International NGOs Expand to Support Advocacy Efforts: The Case of the Catholic Church”.
+**Ziegler, Jeffrey**. ”The Expansion of the Catholic Church: How International NGOs Support Political Efforts”.
 
 Bechtel, Michael M. and **Jeffrey Ziegler**. ”How Political or Humanitarian Is International Disaster Aid?”.
 
