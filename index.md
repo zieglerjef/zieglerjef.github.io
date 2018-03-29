@@ -6,9 +6,11 @@ title: Welcome!
 <div class="container">
 
     <div class="row-fluid">
-        <div class="span5">
+        <div class="span3">
 	
-Currently I’m a PhD student in Political Science at Washington University in St. Louis. My research broadly relates to the legitimacy, responsiveness, and political efforts of international non-governmental organizations, including the Catholic Church. This site includes data, research, and other resources (mainly R examples).<br/><br/>
+Currently I’m a PhD student in Political Science at Washington University in St. Louis. My research broadly relates to the legitimacy, responsiveness, and political efforts of international non-governmental organizations, including the Catholic Church. <br/><br/>
+
+This site includes data, research, and other resources (mainly R examples).<br/><br/>
 
 [CV ![CV as pdf](pages/icons16/pdf-icon.png)](assets/JeffZiegler_CV.pdf)<br/>
 [Google Scholar](https://scholar.google.com/citations?user=PE2j3DcAAAAJ&hl=sv)<br/>
@@ -16,7 +18,7 @@ Currently I’m a PhD student in Political Science at Washington University in S
 	</div>
         </div>
 
-        <div class="span2">
+        <div class="span4">
 	<img src="../assets/pics/Jeff_Ziegler.jpg" alt="hi" class="inline"/>
         </div>
     </div>
