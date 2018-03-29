@@ -18,7 +18,7 @@ This site includes data, research, and other resources (mainly R examples).<br/>
 	</div>
         </div>
 
-        <div class="span4">
+        <div class="span2">
 	<img src="../assets/pics/Jeff_Ziegler.jpg" alt="hi" class="inline"/>
         </div>
     </div>
