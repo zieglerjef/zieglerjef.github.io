@@ -7,7 +7,9 @@ title: Welcome!
 	<div class="row-fluid">
 		<div class="span5">
 	
-Currently I’m a PhD candidate in Political Science at Washington University in St. Louis. My research broadly relates to the legitimacy, responsiveness, and political efforts of international non-governmental organizations, including the Catholic Church. <br/><br/>
+Currently I’m a PhD candidate in Political Science at Washington University in St. Louis. I study comparative politics, political economy, as well as religion and politics. 
+
+My dissertation relates to the legitimacy, responsiveness, and political efforts of international non-governmental organizations, specifically focusing on the Catholic Church. <br/><br/>
 
 This site includes data, research, and other resources (mainly R examples).<br/><br/>
 
