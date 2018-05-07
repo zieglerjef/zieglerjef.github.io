@@ -17,8 +17,12 @@ This site includes my research, teaching, and other resources (mainly R examples
 </a><br/>
 
 <a href="https://scholar.google.com/citations?user=PE2j3DcAAAAJ&hl=sv)">Google Scholar</a><br/>
-		</div>
-	        <div class="span4">
+
+<a href="https://github.com/zieglerjef)">GitHub</a><br/>
+
+</div>
+
+<div class="span4">
 		<img src="../assets/pics/Jeff_Ziegler.jpg" alt="hi" class="inline"/>
      		</div>
 	</div>
