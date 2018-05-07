@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Publications
-description: Jeffrey Ziegler's publications
+title: Research
+description: Jeffrey Ziegler's research
 ---
 
 <div class="navbar">
