@@ -14,7 +14,7 @@ description: Jeffrey Ziegler's publications
     </div>
 </div>
 
-<a href="../assets/JeffZiegler_CV.pdf">	CV <img src="pages/icons16/pdf-icon.png" alt="hi" class="inline"/>
+<a href="/../assets/JeffZiegler_CV.pdf">	CV <img src="icons16/pdf-icon.png" alt="hi" class="inline"/>
 </a><br/>
 
 ### <a name="articles"></a>Journal articles
