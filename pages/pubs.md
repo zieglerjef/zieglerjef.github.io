@@ -14,6 +14,9 @@ description: Jeffrey Ziegler's publications
     </div>
 </div>
 
+<a href="assets/JeffZiegler_CV.pdf">	CV <img src="pages/icons16/pdf-icon.png" alt="hi" class="inline"/>
+</a><br/>
+
 ### <a name="articles"></a>Journal articles
 
 Gibson, James L., Miguel M. Pereira, and **Jeffrey Ziegler**. (2017). ”Updating Supreme Court Legitimacy: Testing
