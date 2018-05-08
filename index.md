@@ -13,7 +13,7 @@ My dissertation explores the legitimacy, responsiveness, and bureaucratic effort
 
 This site includes my research, teaching, and other resources (mainly R examples).<br/><br/>
 
-<table align="center">
+<table align="left">
   <tr><td><a href="assets/JeffZiegler_CV.pdf"> <img src="pages/icons32/pdf-icon.png" alt="hi" class="inline"/>
  CV</a></td>
 	  <td></td>
