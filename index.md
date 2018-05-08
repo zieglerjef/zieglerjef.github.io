@@ -13,12 +13,12 @@ Specifically, my dissertation relates to the legitimacy, responsiveness, and pol
 
 This site includes my research, teaching, and other resources (mainly R examples).<br/><br/>
 
-<a href="assets/JeffZiegler_CV.pdf">	CV <img src="pages/icons64/pdf-icon.png" alt="hi" class="inline"/>
-</a><br/>
+<a href="assets/JeffZiegler_CV.pdf"> <img src="pages/icons64/pdf-icon.png" alt="hi" class="inline"/>
+CV</a><br/>
 
-<a href="https://scholar.google.com/citations?user=PE2j3DcAAAAJ&hl=sv)">Google Scholar <img src="pages/icons64/google-icon.png" alt="hi" class="inline"/></a><br/>
+<a href="https://scholar.google.com/citations?user=PE2j3DcAAAAJ&hl=sv)"> <img src="pages/icons32/google-icon.png" alt="hi" class="inline"/>Google Scholar</a><br/>
 
-<a href="https://github.com/zieglerjef)">GitHub <img src="pages/icons64/github-icon.png" alt="hi" class="inline"/></a><br/>
+<a href="https://github.com/zieglerjef)"> <img src="pages/icons32/github-icon.png" alt="hi" class="inline"/>GitHub</a><br/>
 
 </div>
 
