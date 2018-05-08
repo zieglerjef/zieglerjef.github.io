@@ -13,14 +13,13 @@ My dissertation explores the legitimacy, responsiveness, and bureaucratic effort
 
 This site includes my research, teaching, and other resources (mainly R examples).<br/><br/>
 
-<a href="assets/JeffZiegler_CV.pdf"> <img src="pages/icons32/pdf-icon.png" alt="hi" class="inline"/>
- CV</a><br/>
-
-<a href="https://scholar.google.com/citations?user=PE2j3DcAAAAJ&hl=sv)"> <img src="pages/icons32/google-icon.png" alt="hi" class="inline"/> Google Scholar</a><br/>
-
-<a href="https://github.com/zieglerjef"> <img src="pages/icons32/github-icon.png" alt="hi" class="inline"/> GitHub</a><br/>
-
-<a href="https://twitter.com/jeffreymziegler"> <img src="pages/icons32/twitter-icon.png" alt="hi" class="inline"/> Twitter</a><br/>
+<table align="left">
+  <tr><td><a href="assets/JeffZiegler_CV.pdf"> <img src="pages/icons32/pdf-icon.png" alt="hi" class="inline"/>
+ CV</a></td>
+	<td><a href="https://scholar.google.com/citations?user=PE2j3DcAAAAJ&hl=sv)"> <img src="pages/icons32/google-icon.png" alt="hi" class="inline"/> Google Scholar</a></td>
+	<td><a href="https://github.com/zieglerjef"> <img src="pages/icons32/github-icon.png" alt="hi" class="inline"/> GitHub</a></td>
+	<td><a href="https://twitter.com/jeffreymziegler"> <img src="pages/icons32/twitter-icon.png" alt="hi" class="inline"/> Twitter</a></td></tr>
+</table>
 
 </div>
 
