@@ -11,7 +11,7 @@ Currently I’m a PhD candidate in Political Science at Washington University in
 
 My dissertation explores how religious groups like the Catholic Church use their organizational legitimacy, responsiveness, and bureaucratic resources to influence politics by conceptualizing them as international interest or advocacy groups. <br/><br/>
 
-This site includes my research, teaching, and other resources (mainly R examples).<br/><br/>
+This site mainly includes info about my research and teaching. Feel free to contact with any comments or questions!<br/><br/>
 
 <table align="left">
   <tr><td><a href="assets/JeffZiegler_CV.pdf"> <img src="pages/icons32/pdf-icon.png" alt="hi" class="inline"/>
