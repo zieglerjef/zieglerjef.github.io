@@ -9,7 +9,7 @@ title: Welcome!
 	
 Currently I’m a PhD candidate in Political Science at Washington University in St. Louis. I study comparative politics, international relations, political economy, as well as religion and politics. In my research, I'm broadly interested in how political organizations or actors, many of whom often fall outside the purview of the general public, impact politics.<br/><br/>
 
-My dissertation explores the legitimacy, responsiveness, and bureaucratic efforts of religious groups, specifically the Catholic Chuch, by conceptualizing them as international interest or advocacy groups. <br/><br/>
+My dissertation explores the legitimacy, responsiveness, and bureaucratic efforts necessary for religious groups to influence politics, specifically the Catholic Chuch, by conceptualizing them as international interest or advocacy groups. <br/><br/>
 
 This site includes my research, teaching, and other resources (mainly R examples).<br/><br/>
 
