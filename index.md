@@ -20,6 +20,8 @@ This site includes my research, teaching, and other resources (mainly R examples
 
 <a href="https://github.com/zieglerjef)"> <img src="pages/icons32/github-icon.png" alt="hi" class="inline"/> GitHub</a><br/>
 
+<a href="https://twitter.com/jeffreymziegler)"> <img src="pages/icons32/twitter-icon.png" alt="hi" class="inline"/> Twitter</a><br/>
+
 </div>
 
 <div class="span4">
