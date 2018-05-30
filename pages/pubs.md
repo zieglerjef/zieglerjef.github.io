@@ -25,7 +25,7 @@ the ’Rule, Learn, Update’ Model of Political Communication”. *American Pol
 
 ### <a name="workingPapers"></a>Working papers
 
-**Ziegler, Jeffrey**. ”Serving the Masses: Responsiveness in International NGOs”.
+**Ziegler, Jeffrey**. ”Serving the Masses: Political Responsiveness in Religious Organizations".
 
 **Ziegler, Jeffrey**. ”The Expansion of the Catholic Church: A Political Economy of Religion”.
 
