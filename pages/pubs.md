@@ -27,7 +27,7 @@ the ’Rule, Learn, Update’ Model of Political Communication”. *American Pol
 
 **Ziegler, Jeffrey**. ”Serving the Masses: Political Responsiveness in Religious Organizations".
 
-**Ziegler, Jeffrey**. ”The Expansion of the Catholic Church: A Political Economy of Religion”.
+**Ziegler, Jeffrey**. ”The Expansion of the Catholic Church: Serving members, eliminating competition, or lobbying allies?”.
 
 **Ziegler, Jeffrey** and David Carlson. ”Do Voters Trump Business? Regime Type, Elections, and International Financial Treaty
 Violations”. [![pdf](icons16/pdf-icon.png)](https://drive.google.com/open?id=10Ae8jxMgbHcBat3hikysuSEkpXvje0yY)
