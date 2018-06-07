@@ -9,7 +9,7 @@ title: Welcome!
 	
 Currently I’m a PhD Candidate in Political Science at Washington University in St. Louis. I study comparative politics, international relations, political economy, as well as religion and politics. In my research, I'm broadly interested in how political actors, institutions, and organizations that often fall outside the public's purview impact politics.<br/><br/>
 
-My dissertation explores how religious groups like the Catholic Church use their organizational legitimacy, responsiveness, and bureaucratic resources to influence politics by conceptualizing them as international interest or advocacy groups. <br/><br/>
+Specifically, my dissertation explores how religious groups like the Catholic Church use their organizational legitimacy, responsiveness, and bureaucratic resources to influence politics by conceptualizing them as international interest or advocacy groups. <br/><br/>
 
 This site mainly includes info about my research and teaching. Feel free to <a href="https://zieglerjef.github.io/pages/about.html">contact me</a> with any comments or questions!<br/><br/>
 
