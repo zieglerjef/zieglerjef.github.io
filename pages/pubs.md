@@ -42,7 +42,7 @@ Bechtel, Michael M. and **Jeffrey Ziegler**. ”How Political or Humanitarian Is
 
 - Lois Roth Endowment, Fulbright Project Support (2014)
 
-- Fulbright Research Grant, Umeå University (2013-2014;Adviser: Torbjörn Bergman)
+- Fulbright Research Grant, Umeå University (2013-2014; Adviser: Torbjörn Bergman)
 
 - Gudrun Gytel Fund Scholarship (2011)
 
