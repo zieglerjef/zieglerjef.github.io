@@ -32,7 +32,7 @@ the ’Rule, Learn, Update’ Model of Political Communication”. *American Pol
 **Ziegler, Jeffrey** and David Carlson. ”Do Voters Trump Business? Regime Type, Elections, and International Financial Treaty
 Violations”. [![pdf](icons16/pdf-icon.png)](https://drive.google.com/open?id=10Ae8jxMgbHcBat3hikysuSEkpXvje0yY)
 
-Bechtel, Michael M. and **Jeffrey Ziegler**. ”How Political or Humanitarian Is International Disaster Aid?”.
+Bechtel, Michael M. and **Jeffrey Ziegler**. ”Political Affinity, Humanitarian Concerns, and International Financial Assistance”.
 
 ### <a name="articles"></a>Grants and awards
 
