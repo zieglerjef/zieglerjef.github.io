@@ -1,6 +1,6 @@
 ---
 layout: page
-title: fall2018IntroIR
+title: Fall 2018: Introduction to International Politics
 description: Introduction to International Politics
 ---
 
