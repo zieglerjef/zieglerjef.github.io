@@ -4,7 +4,7 @@
 <html class="staticrypt-html">
 <head>
     <meta charset="utf-8">
-    <title>Protected Page</title>
+    <title>Password Required</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- do not cache this page -->
@@ -6141,7 +6141,7 @@
         e.preventDefault();
 
         var passphrase = document.getElementById('staticrypt-password').value,
-            encryptedMsg = '49477ed9fecde4885d52ecc48d21f15e3a65081ff35388bff68e1708cf2c9738U2FsdGVkX19Ngq1FSq+J46jA+kPtoH7XFfFNpiuNMm2cg4CM/HfSGZwGlltXS5V6DvfFUu0kVw96gvZ9piyEJzv9wuj1RZZuK38OpWPSPwBj3CdpeZzRx894dqJJ9VfPRrSExvQfxBR63gtkZnV3/moht+tyPoox/H0z9jaSZVz8AwpXW2zugtgopPGkmnNjv+Jl1lgRytqY8SlCITIjkhp9eY/z2YE2Y5xiLL2pi8UJ722wbAsFE7NAFS5rb0KQb6/cGpPdW+QhaXsaycd4hpHfgQlXyXafiPXa+U2cFKWShA2x+70i4xsFF24IKnzhu45/yc+M65+Y8vuz4sACRwxWsp625xCCr0AM5TMaPqE=',
+            encryptedMsg = '3792d71518c9ee5d7f11ca1cdcdf1c85336e68459fa3a900a4c40fe59a17e4faU2FsdGVkX19umN8htiCtlUMedSsW7s3LG9YywkGxtLE=',
             encryptedHMAC = encryptedMsg.substring(0, 64),
             encryptedHTML = encryptedMsg.substring(64),
             decryptedHMAC = CryptoJS.HmacSHA256(encryptedHTML, CryptoJS.SHA256(passphrase).toString()).toString();
