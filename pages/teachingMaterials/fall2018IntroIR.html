@@ -1,3 +1,5 @@
+<!-- https://robinmoisson.github.io/staticrypt/ -->
+
 <!doctype html>
 <html class="staticrypt-html">
 <head>
@@ -6139,7 +6141,11 @@
         e.preventDefault();
 
         var passphrase = document.getElementById('staticrypt-password').value,
+<<<<<<< HEAD
             encryptedMsg = 'bbb357f5037cacc2c0ef10f344ef41d3481a2c6f1a6aa8c60091707cfbf6b331U2FsdGVkX19OJ5AtmcUG+VasyD9gjBgxI6pukzwzaiO3cyKc5PWl9FvljCOpeAPTbKcxAP26JlQKFOuCw0MukoQCmrdQOmNh6Wobvx7IKJxee09KWtLx756Hf1RP0ZT7gyn7qtpYrD4bqxc8uZx9gqt3tMifbvQQ7WAFFoBP2LgsWPr1p31NdZgJO+fJDUdu0/Mm75ZRi1IvOdM7+FJjs17NxTwsc5D4vAotIh9w3yBOzX8cQp8fbcZgxRq2XKr7ba8TLpWRvzaBJvOWru00qa46ZZx+rcxDw/mlgjFGrTUfm29hj5gplNvioZ695FEohY/bTqLZr0h/cLV2T71W6QP5QWABTCZeQT5q8r8zJAamh32Pr1VGDz/hbEYWmc2C',
+=======
+            encryptedMsg = '78e81ca007a0526e0cdcf3aa1644494df471f66c7b97037e2662aaa03f9a62c7U2FsdGVkX19u65ZlucuObbKYq3meKIGnCyEHFHo1W4kw9fYvxtQTsTU+gQvsmrQmKRy87ma+JtSJf1t9AYA0jvaNeyWEbJgiThRGKftDL4/QI8c6xjWdKbpg1szO4V7XgnORnE+s+5st0DU9lgwfAwEomCMOdEQ+ZT3GEVQaLpwDdjvz5JZAUZEPiDqpDokfRvJoMoTxKcmhwtweac9uLPOPDjwyagdEVNj4mpWUhrSLI7FBJHZ+Vm+WejBNiY0z+rZbnzATpOHRbj6L+olVdy12SSZXjhy051UP49VkZzaIbFEyC0m85R2D++a3VM1MNXyxSjOw2vZhLMuneHEr9VZx1dqvwEaelm9Zzp9+vII=',
+>>>>>>> origin/master
             encryptedHMAC = encryptedMsg.substring(0, 64),
             encryptedHTML = encryptedMsg.substring(64),
             decryptedHMAC = CryptoJS.HmacSHA256(encryptedHTML, CryptoJS.SHA256(passphrase).toString()).toString();
