@@ -14,7 +14,7 @@ description: Jeff Ziegler's teaching
 </div>
 ### <a name="instructor"></a>Instructor
 
-- [Introduction to International Politics]() (Fall 2018; University College: Washington University in St. Louis)
+- [Introduction to International Politics](https://zieglerjef.github.io/pages/teachingMaterials/4d5f558836a36eda51a820506c2fdd41830ac2a6/fall2018IntroIR.html) (Fall 2018; University College: Washington University in St. Louis)
 
 ### <a name="TA"></a>Teaching assistant
 
