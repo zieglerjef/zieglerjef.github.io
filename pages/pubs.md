@@ -14,7 +14,7 @@ description: Jeffrey Ziegler's research
     </div>
 </div>
 
-Download <a href="/../assets/JeffZiegler_CV.pdf">	CV <img src="icons16/pdf-icon.png" alt="hi" class="inline"/>
+Download <a href="https://drive.google.com/open?id=1tBMW3yqCl2WfRwRRfyTYkDypJOkOb961">	CV <img src="icons16/pdf-icon.png" alt="hi" class="inline"/>
 </a><br/>
 
 ### <a name="articles"></a>Journal articles
@@ -25,9 +25,11 @@ the ’Rule, Learn, Update’ Model of Political Communication”. *American Pol
 
 ### <a name="workingPapers"></a>Working papers
 
-**Ziegler, Jeffrey**. ”Serving the Masses: Political Responsiveness in Religious Organizations".
+**Ziegler, Jeffrey**. ”Responsiveness and Unelected Leaders: Lessons from the Catholic Church".
 
-**Ziegler, Jeffrey**. ”The Expansion of the Catholic Church: Serving members, eliminating competition, or lobbying allies?”.
+**Ziegler, Jeffrey**. ”The Expansion of the Catholic Church: Serving Members, Eliminating Competition, or Lobbying Allies?”.
+
+**Ziegler, Jeffrey**. ”Pope or Politician? Religious Imagery and Member Support Within the Catholic Church”.
 
 **Ziegler, Jeffrey** and David Carlson. ”Do Voters Trump Business? Regime Type, Elections, and International Financial Treaty
 Violations”. [![pdf](icons16/pdf-icon.png)](https://drive.google.com/open?id=10Ae8jxMgbHcBat3hikysuSEkpXvje0yY)
