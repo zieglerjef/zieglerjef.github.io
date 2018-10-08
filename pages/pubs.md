@@ -17,6 +17,8 @@ description: Jeffrey Ziegler's research
 Download <a href="https://drive.google.com/open?id=1tBMW3yqCl2WfRwRRfyTYkDypJOkOb961">	CV <img src="icons16/pdf-icon.png" alt="hi" class="inline"/>
 </a><br/>
 
+![](assets/pics/presentationPic.jpeg)
+
 ### <a name="articles"></a>Journal articles
 
 Gibson, James L., Miguel M. Pereira, and **Jeffrey Ziegler**. (2017). ”Updating Supreme Court Legitimacy: Testing
