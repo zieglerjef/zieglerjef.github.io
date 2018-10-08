@@ -31,8 +31,7 @@ the ’Rule, Learn, Update’ Model of Political Communication”. *American Pol
 
 **Ziegler, Jeffrey**. ”Pope or Politician? Religious Imagery and Member Support Within the Catholic Church”.
 
-**Ziegler, Jeffrey** and David Carlson. ”Do Voters Trump Business? Regime Type, Elections, and International Financial Treaty
-Violations”. [![pdf](icons16/pdf-icon.png)](https://drive.google.com/open?id=10Ae8jxMgbHcBat3hikysuSEkpXvje0yY)
+**Ziegler, Jeffrey** and David Carlson. ”The Role of Credible Elections and Indirect Expropriation in Explaining International Investment Treaty Violations”.
 
 Bechtel, Michael M. and **Jeffrey Ziegler**. ”How Political Is International Financial Assistance?”.
 
