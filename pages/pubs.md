@@ -13,17 +13,6 @@ description: Jeffrey Ziegler's research
         </ul>
     </div>
 </div>
-
-<div class="container">
-
-    <div class="row-fluid">
-    
-    
-      <div class="span3">
-	<img src="../assets/pics/homepagePhoto.jpg" alt="hi" class="inline"/>
-        </div>
-        
-        <div class="span7">
             
 Download <a href="https://drive.google.com/open?id=1tBMW3yqCl2WfRwRRfyTYkDypJOkOb961">	CV <img src="icons16/pdf-icon.png" alt="hi" class="inline"/>
 </a><br/>
@@ -61,6 +50,3 @@ Bechtel, Michael M. and **Jeffrey Ziegler**. ”How Political Is International F
 - Larsen Family Scholarship (2011)
 
 - ScanDesign Scholarship (2011)
-        </div>
-    </div>
-</div>
