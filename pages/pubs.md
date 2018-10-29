@@ -18,7 +18,6 @@ Download <a href="https://drive.google.com/open?id=1tBMW3yqCl2WfRwRRfyTYkDypJOkO
 </a>
 
 ### <a name="articles"></a>Journal Articles
-
 <table align="center">
 <tr>
 <td align="left" valign="center" width="80%">
