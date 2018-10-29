@@ -25,7 +25,7 @@ the ’Rule, Learn, Update’ Model of Political Communication”. *American Pol
 
 <details><summary> Abstract </summary>
 <p>
-Test
+One of the more important innovations in the study of how citizens assess the U.S. Supreme Court is the ideological updating model, which assumes that citizens grant legitimacy to the institution according to the perceived distance between themselves and the Court on a unidimensional ideological (liberal–conservative) continuum. Under this model, citizens are also said to update this calculation with every new salient Supreme Court decision. The model’s requirements, however, do not seem to square with the long-established view that Americans are largely innocent of ideology. Here, we conduct an audit of the model’s mechanisms using a series of empirical tests applied to a nationally representative sample. Our general conclusion is that the ideological updating model, especially when supplemented with the requirement that citizens must become aware of Court decisions, simply does not square with the realities of American politics. Students of Supreme Court legitimacy may therefore want to search for other theories of legitimacy updating.
 </p>
 </details>
 
