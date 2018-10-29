@@ -19,23 +19,16 @@ Download <a href="https://drive.google.com/open?id=1tBMW3yqCl2WfRwRRfyTYkDypJOkO
 
 ### <a name="articles"></a>Journal Articles
 
-<table align="center">
-    <tbody>
-<tr>
-<td align="left" valign="center" width="80%">
-Gibson, James L., Miguel M. Pereira, and <b>Jeffrey Ziegler</b>. (2017). ”Updating Supreme Court Legitimacy: Testing the ’Rule, Learn, Update’ Model of Political Communication”. <i>American Politics Research</i>. 45(6), 980-1002. <a href="https://drive.google.com/file/d/1YHqTlVkxxMtOSetTqnR4V8dhUR-LXqXT/view" target="_blank"> <img src="icons16/pdf-icon.png" alt="hi" class="inline"/>
-</a> &nbsp; <a href="https://drive.google.com/file/d/1OrwLIBFuznTYT0aKuaF_1aXoW58N0UUM/view" target="_blank"> <img src="icons16/supp-icon.png" alt="hi" class="inline"/>
-</a> </td></tr>
-<br/><br/>
-<tr>
-<td align="left" valign="center" width="80%">
+Gibson, James L., Miguel M. Pereira, and **Jeffrey Ziegler**. (2017). ”Updating Supreme Court Legitimacy: Testing
+the ’Rule, Learn, Update’ Model of Political Communication”. *American Politics Research*. 45(6), 980-1002.
+[![pdf](icons16/pdf-icon.png)](https://drive.google.com/file/d/1YHqTlVkxxMtOSetTqnR4V8dhUR-LXqXT/view)
+
 <details><summary> Abstract </summary>
 <p>
 Test
 </p>
 </details>
-</td>	</tr><br/>
-<tr><td align="left" valign="center" width="80%">
+
 <details><summary> Citation </summary>
 <p>
 <pre>
@@ -51,9 +44,6 @@ Test
 </pre>
 </p>
 </details>
-</td>	</tr>    </tbody>
-
-</table>
 
 ### <a name="workingPapers"></a>Working Papers
 
