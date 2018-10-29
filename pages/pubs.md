@@ -17,13 +17,44 @@ description: Jeffrey Ziegler's research
 Download <a href="https://drive.google.com/open?id=1tBMW3yqCl2WfRwRRfyTYkDypJOkOb961">	CV <img src="icons16/pdf-icon.png" alt="hi" class="inline"/>
 </a><br/>
 
-### <a name="articles"></a>Journal articles
+### <a name="articles"></a>Journal Articles
 
-Gibson, James L., Miguel M. Pereira, and **Jeffrey Ziegler**. (2017). ”Updating Supreme Court Legitimacy: Testing
-the ’Rule, Learn, Update’ Model of Political Communication”. *American Politics Research*. 45(6), 980-1002.
-[![pdf](icons16/pdf-icon.png)](https://drive.google.com/file/d/1YHqTlVkxxMtOSetTqnR4V8dhUR-LXqXT/view)
+<table align="center" width="80%">
+	<tr>
+		<td align="left" valign="center" width="75%">
+			<ul>
+			<li><font face="Helvetica" size="3"> Gibson, James L., Miguel M. Pereira, and <b>Jeffrey Ziegler</b>. (2017). ”Updating Supreme Court Legitimacy: Testing the ’Rule, Learn, Update’ Model of Political Communication”. <i>American Politics Research</i>. 45(6), 980-1002.<a href="https://drive.google.com/file/d/1YHqTlVkxxMtOSetTqnR4V8dhUR-LXqXT/view" [![pdf](icons16/pdf-icon.png)]</a>
+<br>
 
-### <a name="workingPapers"></a>Working papers
+&nbsp &nbsp <a onclick ="javascript:ShowHide('AbsYoungMen')" href="javascript:;" >Abstract</a> &nbsp &nbsp
+<span style="font-size: 12pt;">
+<div class="mid" id="GibsonPereiraZiegler2017" style="DISPLAY: none" >
+Test
+</div>
+</span>
+&nbsp &nbsp <a onclick ="javascript:ShowHide('bibGibsonPereiraZiegler2017')" href="javascript:;" >BibTeX Citation</a> &nbsp &nbsp
+<span style="font-size: 12pt;">
+<div class="mid" id="bibGibsonPereiraZiegler2017" style="DISPLAY: none" >
+<pre>
+@article{gibson2017updating,
+  title={Updating Supreme Court Legitimacy: Testing the “Rule, Learn, Update” Model of Political Communication},
+  author={Gibson, James L. and Pereira, Miguel M. and Ziegler, Jeffrey},
+  journal={American Politics Research},
+  volume={45},
+  number={6},
+  pages={980--1002},
+  year={2017},
+}
+</pre>
+</div> 
+</span> &nbsp <a href="https://drive.google.com/file/d/1OrwLIBFuznTYT0aKuaF_1aXoW58N0UUM/view" target="_blank">Supplementary Materials:</a>    
+</p>
+			</font>
+		</li></ul></td>
+	</tr>
+</table>
+
+### <a name="workingPapers"></a>Working Papers
 
 **Ziegler, Jeffrey**. ”Responsiveness and Unelected Leaders: Lessons from the Catholic Church".
 
@@ -35,7 +66,7 @@ the ’Rule, Learn, Update’ Model of Political Communication”. *American Pol
 
 Bechtel, Michael M. and **Jeffrey Ziegler**. ”How Political Is International Financial Assistance?”.
 
-### <a name="articles"></a>Grants and awards
+### <a name="articles"></a>Grants and Awards
 
 - Graduate Research Seed Grant, Washington University in St. Louis, Department of Political Science (2018)
 
