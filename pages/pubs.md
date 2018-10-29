@@ -4,22 +4,6 @@ title: Research
 description: Jeffrey Ziegler's research
 ---
 
-
-<style>
-a:link {
-   color: #b62300;; text-decoration: none; 
-}
-a:visited {
-   color: #b62300;; text-decoration: none; 
-}
-a:hover {
-   color: #b62300;; text-decoration: underline; 
-}
-a:active {
-   color: #b62300;; text-decoration: none; 
-}
-</style>
-
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
