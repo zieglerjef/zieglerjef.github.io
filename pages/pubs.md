@@ -26,7 +26,7 @@ Download <a href="https://drive.google.com/open?id=1tBMW3yqCl2WfRwRRfyTYkDypJOkO
 			<li><font face="Helvetica" size="3"> Gibson, James L., Miguel M. Pereira, and <b>Jeffrey Ziegler</b>. (2017). ”Updating Supreme Court Legitimacy: Testing the ’Rule, Learn, Update’ Model of Political Communication”. <i>American Politics Research</i>. 45(6), 980-1002. <a href="https://drive.google.com/file/d/1YHqTlVkxxMtOSetTqnR4V8dhUR-LXqXT/view" target="_blank"> <img src="icons16/pdf-icon.png" alt="hi" class="inline"/>
 </a><br>
 
-&nbsp; &nbsp; <a onclick ="javascript:ShowHide('AbsYoungMen')" href="javascript:;" >Abstract</a> &nbsp; &nbsp;
+&nbsp; &nbsp; <a onclick ="javascript:ShowHide('GibsonPereiraZiegler2017')" href="javascript:;" >Abstract</a> &nbsp; &nbsp;
 <span style="font-size: 12pt;">
 <div class="mid" id="GibsonPereiraZiegler2017" style="DISPLAY: none" >
 Test
