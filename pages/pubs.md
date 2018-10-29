@@ -15,7 +15,7 @@ description: Jeffrey Ziegler's research
 </div>
             
 Download <a href="https://drive.google.com/open?id=1tBMW3yqCl2WfRwRRfyTYkDypJOkOb961">	CV <img src="icons16/pdf-icon.png" alt="hi" class="inline"/>
-</a><br/>
+</a>
 
 ### <a name="articles"></a>Journal Articles
 
