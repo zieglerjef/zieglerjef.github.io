@@ -27,14 +27,14 @@ Gibson, James L., Miguel M. Pereira, and <b>Jeffrey Ziegler</b>. (2017). ”Upda
 </a> </td></tr>
 	
 <br>
-<tr><td>
+<tr><td align="left" valign="center" width="33%">
 <details><summary> Abstract </summary>
 <p>
 Test
 </p>
 </details>
 </td>
-<td>
+<td align="left" valign="center" width="33%">
 <details><summary> Citation </summary>
 <p>
 <pre>
