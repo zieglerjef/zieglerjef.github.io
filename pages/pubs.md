@@ -36,7 +36,7 @@ Test
 <span style="font-size: 12pt;">
 <div class="mid" id="bibGibsonPereiraZiegler2017" style="DISPLAY: none" >
 <pre>
-@article{gibson2017updating,
+@article{bibGibsonPereiraZiegler2017,
   title={Updating Supreme Court Legitimacy: Testing the “Rule, Learn, Update” Model of Political Communication},
   author={Gibson, James L. and Pereira, Miguel M. and Ziegler, Jeffrey},
   journal={American Politics Research},
