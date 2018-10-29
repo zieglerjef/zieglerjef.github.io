@@ -27,8 +27,8 @@ the ’Rule, Learn, Update’ Model of Political Communication”. *American Pol
 	  <td></td>	  <td></td>  <td></td>
 	<td><a href="https://drive.google.com/file/d/1YHqTlVkxxMtOSetTqnR4V8dhUR-LXqXT/view" target="_blank"> <img src="pages/icons32/google-icon.png" alt="hi" class="inline"/> Download</a></td>
 	  <td></td>	  <td></td>  <td></td>
-	<td><a href="https://drive.google.com/file/d/1OrwLIBFuznTYT0aKuaF_1aXoW58N0UUM/view" target="_blank"> <img src="pages/icons32/github-icon.png" alt="hi" class="inline"/> Supplementary Materials</a></td></tr>
-</table>
+	<td><a href="https://drive.google.com/file/d/1OrwLIBFuznTYT0aKuaF_1aXoW58N0UUM/view" target="_blank"> <img src="icons16/github-icon.png" alt="hi" class="inline"/> Supplementary Materials</a></td></tr>
+</table><br/>
 
 <details><summary> Abstract </summary>
 <p>
