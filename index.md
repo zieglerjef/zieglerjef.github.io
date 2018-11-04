@@ -26,7 +26,7 @@ This site mainly includes info about my research and teaching. Feel free to <a h
 
 </div>
 
-<div class="span3">
+<div class="span4">
 		<img src="../assets/pics/Jeff_Ziegler.jpg" alt="hi" class="inline"/>
      		</div>
 	</div>
