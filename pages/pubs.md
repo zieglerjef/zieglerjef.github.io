@@ -15,10 +15,6 @@ description: Jeffrey Ziegler's research
     </div>
 </div>
 
-<div class="container">
-	<div class="row-fluid">
-		<div class="span6">
-	
 Download <a href="https://drive.google.com/open?id=1tBMW3yqCl2WfRwRRfyTYkDypJOkOb961" target="_blank">	CV <img src="icons16/pdf-icon.png" alt="hi" class="inline"/> </a>
 
 ### <a name="articles"></a>Journal Articles
@@ -87,14 +83,3 @@ Gabel, Matthew & **Jeffrey Ziegler**. ”Automating the Complaw Database: Explor
 - Larsen Family Scholarship (2011)
 
 - ScanDesign Scholarship (2011)
-
-
-
-</div>
-  
-
-<div class="span4">
-		<img src="../assets/pics/Jeff_Ziegler.jpg" alt="hi" class="inline"/>
-     		</div>
-	</div>
-</div>
