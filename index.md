@@ -5,7 +5,7 @@ title: Welcome!
 
 <div class="container">
 	<div class="row-fluid">
-		<div class="span5">
+		<div class="span6">
 	
 Currently I’m a PhD Candidate in Political Science and a Graduate Affiliate of the <i>John C. Danforth Center on Religion and Politics</i> at Washington University in St. Louis. I broadly study questions of legitimacy, accountability, and responsiveness related to political economy, religion and politics, and judicial politics.<br/><br/>
 
@@ -26,7 +26,7 @@ This site mainly includes info about my research and teaching. Feel free to <a h
 
 </div>
 
-<div class="span4">
+<div class="span3">
 		<img src="../assets/pics/Jeff_Ziegler.jpg" alt="hi" class="inline"/>
      		</div>
 	</div>
