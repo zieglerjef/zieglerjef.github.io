@@ -37,7 +37,7 @@ One of the more important innovations in the study of how citizens assess the U.
 <br/>
 </p>
 </details>
-
+<br/>
 <details><summary> Citation </summary>
 <p>
 <br/>
@@ -59,13 +59,13 @@ One of the more important innovations in the study of how citizens assess the U.
 
 **Ziegler, Jeffrey**. ”Responsiveness and Unelected Leaders: Lessons from the Catholic Church".
 
-
+<br/>
 <details><summary> Abstract </summary>
 <br/><p>
 Are leaders responsive to their members’ preferences over time, even when formal accountability mechanisms such as elections are weak or absent? Unelected leaders, especially religious leaders, typically influence their supporters’ preferences, yet I suggest they should also have strong incentives to be responsive because they rely on dedicated, core members for legitimacy, volunteerism, and financial support. I test this argument by first analyzing over 10,000 papal messages to confirm the pa- pacy is responsive to Catholic public opinion. I also conduct survey experiments using nationally representative samples of Catholics in Brazil and Mexico to show that members increase their organizational trust and participation as a function of their existing organizational commitment, and the anticipated cost of support. The evidence suggests that elections may not be necessary to motivate leaders to be re- sponsive, although there are limits to the benefits that members provide in return.
 </p><br/>
 </details>
-
+<br/>
 **Ziegler, Jeffrey**. ”The Expansion of the Catholic Church: Serving Members, Eliminating Competition, or Lobbying Allies?”.
 
 **Ziegler, Jeffrey**. ”Pope or Politician? Religious Imagery and Member Support Within the Catholic Church”.
