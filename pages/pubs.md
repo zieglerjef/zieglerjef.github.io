@@ -32,12 +32,15 @@ the ’Rule, Learn, Update’ Model of Political Communication”. *American Pol
 
 <details><summary> Abstract </summary>
 <p>
+<br/>
 One of the more important innovations in the study of how citizens assess the U.S. Supreme Court is the ideological updating model, which assumes that citizens grant legitimacy to the institution according to the perceived distance between themselves and the Court on a unidimensional ideological (liberal–conservative) continuum. Under this model, citizens are also said to update this calculation with every new salient Supreme Court decision. The model’s requirements, however, do not seem to square with the long-established view that Americans are largely innocent of ideology. Here, we conduct an audit of the model’s mechanisms using a series of empirical tests applied to a nationally representative sample. Our general conclusion is that the ideological updating model, especially when supplemented with the requirement that citizens must become aware of Court decisions, simply does not square with the realities of American politics. Students of Supreme Court legitimacy may therefore want to search for other theories of legitimacy updating.
+<br/>
 </p>
 </details>
 
 <details><summary> Citation </summary>
 <p>
+<br/>
 <pre>
 @article{bibGibsonPereiraZiegler2017,
   title={Updating Supreme Court Legitimacy: Testing the “Rule, Learn, Update” Model of Political Communication},
@@ -49,12 +52,19 @@ One of the more important innovations in the study of how citizens assess the U.
   year={2017},
 }
 </pre>
-</p>
+</p><br/>
 </details>
 
 ### <a name="workingPapers"></a>Working Papers
 
 **Ziegler, Jeffrey**. ”Responsiveness and Unelected Leaders: Lessons from the Catholic Church".
+
+
+<details><summary> Abstract </summary>
+<br/><p>
+Are leaders responsive to their members’ preferences over time, even when formal accountability mechanisms such as elections are weak or absent? Unelected leaders, especially religious leaders, typically influence their supporters’ preferences, yet I suggest they should also have strong incentives to be responsive because they rely on dedicated, core members for legitimacy, volunteerism, and financial support. I test this argument by first analyzing over 10,000 papal messages to confirm the pa- pacy is responsive to Catholic public opinion. I also conduct survey experiments using nationally representative samples of Catholics in Brazil and Mexico to show that members increase their organizational trust and participation as a function of their existing organizational commitment, and the anticipated cost of support. The evidence suggests that elections may not be necessary to motivate leaders to be re- sponsive, although there are limits to the benefits that members provide in return.
+</p><br/>
+</details>
 
 **Ziegler, Jeffrey**. ”The Expansion of the Catholic Church: Serving Members, Eliminating Competition, or Lobbying Allies?”.
 
