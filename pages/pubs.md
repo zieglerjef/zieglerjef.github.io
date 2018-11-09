@@ -67,6 +67,12 @@ Are leaders responsive to their members’ preferences over time, even when form
 <br/>
 **Ziegler, Jeffrey**. ”The Expansion of the Catholic Church: Serving Members, Eliminating Competition, or Lobbying Allies?”.
 
+<details><summary> Abstract </summary>
+<br/><p>
+Religious organizations that pursue a political agenda must coordinate the demands of existing members, and compete against rival religious groups for supporters and political influence. There is not, however, a precise explanation for how and when religious organizations globally expand given these competing objectives. I theo- rize that religious organizations, as interest or non-governmental organizations, do protect against competing denominations and service current followers, but they primarily expand their organizational capacity to target legislators when a govern- ment is a political ally. I test this prediction using original data of over 2,300 changes within the Catholic Church’s diocese hierarchy from 1900 to 2010. The results show that the Church is more likely to invest resources in a country when the govern- ment is a political ally. Importantly, the Church does not divert existing resources from members, or when there are greater numbers of Pentecostal and Evangelical supporters. The findings help illustrate the constraints and priorities that religious groups face in expanding their international political reach.
+</p><br/>
+</details>
+<br/>
 **Ziegler, Jeffrey**. ”Pope or Politician? Religious Imagery and Member Support Within the Catholic Church”.
 
 **Ziegler, Jeffrey** & David Carlson. ”The Role of Credible Elections and Indirect Expropriation in Explaining International Investment Treaty Violations”.
