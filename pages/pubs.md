@@ -9,7 +9,6 @@ description: Jeffrey Ziegler's research
         <ul class="nav">
             <li><a href="#articles">Articles</a></li>
             <li><a href="#workingPapers">Working papers</a></li>
-            <li><a href="#ongoing">Selected On-going Projects</a></li>
             <li><a href="#grants">Grants and Awards</a></li>
         </ul>
     </div>
@@ -78,8 +77,6 @@ Religious organizations that pursue a political agenda must coordinate the deman
 **Ziegler, Jeffrey** & David Carlson. ”The Role of Credible Elections and Indirect Expropriation in Explaining International Investment Treaty Violations”.
 
 Bechtel, Michael M. & **Jeffrey Ziegler**. ”How Political Is International Financial Assistance?”.
-
-### <a name="ongoing"></a>Selected On-going Projects
 
 Gabel, Matthew & **Jeffrey Ziegler**. ”Automating the Complaw Database: Exploring the Limits and Possibilities of Replacing Human Coders”.
 
