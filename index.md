@@ -7,7 +7,7 @@ title: Welcome!
 	<div class="row-fluid">
 		<div class="span6">
 	
-Currently I’m a PhD Candidate in Political Science and a Graduate Affiliate of the <i>John C. Danforth Center on Religion and Politics</i> at Washington University in St. Louis. I broadly study questions of legitimacy, accountability, and responsiveness related to political economy, religion and politics, and judicial politics.<br/><br/>
+Currently I’m a PhD Candidate in Political Science and a Graduate Affiliate of the <i>John C. Danforth Center on Religion and Politics</i> at Washington University in St. Louis. I broadly study questions of legitimacy, accountability, and responsiveness related to religion and politics, empirical legal studies, and political economy.<br/><br/>
 
 Specifically, my dissertation explores how religious groups like the Catholic Church use their public rhetoric and bureaucratic resources to influence politics by conceptualizing them as international interest or advocacy groups. <br/><br/>
 
