@@ -14,7 +14,7 @@ description: Jeff Ziegler's teaching
 </div>
 ### <a name="instructor"></a>Instructor
 - [Introduction to Quantitative Methods](https://zieglerjef.github.io/pages/QPMteachingMaterials/) (Spring 2019; University College: Washington University in St. Louis)
-- [Introduction to International Politics](https://zieglerjef.github.io/pages/IRteachingMaterials/) (Fall 2018; University College: Washington University in St. Louis)
+- Introduction to International Politics (Fall 2018; University College: Washington University in St. Louis)
 
 ### <a name="TA"></a>Teaching assistant
 
