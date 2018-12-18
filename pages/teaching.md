@@ -16,6 +16,10 @@ description: Jeff Ziegler's teaching
 - [Introduction to Quantitative Methods](https://zieglerjef.github.io/pages/QPMteachingMaterials/) (Spring 2019; University College: Washington University in St. Louis)
 - Introduction to International Politics (Fall 2018; University College: Washington University in St. Louis)
 
+<table align="left">
+  <tr><td><a href="https://drive.google.com/open?id=109HUKdaSUzgvrSUJ2Vcd_KRAh_qXQ8zR" target="_blank"> <img src="icons16/html-icon.png" alt="hi" class="inline"/> Syallabus </a></td></tr>
+</table><br/>
+
 ### <a name="TA"></a>Teaching assistant
 
 - Global Justice (Spring 2018; Instructor: Frank Lovett)
