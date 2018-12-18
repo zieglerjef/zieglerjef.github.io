@@ -17,7 +17,7 @@ description: Jeff Ziegler's teaching
 - Introduction to International Politics (Fall 2018; University College: Washington University in St. Louis)
 
 <table align="left">
-  <tr><td><a href="https://drive.google.com/open?id=109HUKdaSUzgvrSUJ2Vcd_KRAh_qXQ8zR" target="_blank"> <img src="icons16/pdf-icon.png" alt="hi" class="inline"/> Syallabus </a></td></tr>
+  <tr><td><a href="https://drive.google.com/open?id=109HUKdaSUzgvrSUJ2Vcd_KRAh_qXQ8zR" target="_blank"> <img src="icons16/pdf-icon.png" alt="hi" class="inline"/> Syllabus </a></td></tr>
 </table><br/>
 
 ### <a name="TA"></a>Teaching assistant
