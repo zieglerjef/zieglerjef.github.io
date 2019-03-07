@@ -16,7 +16,7 @@ description: Jeff Ziegler's teaching
 - [Introduction to Quantitative Methods](https://zieglerjef.github.io/pages/QPMteachingMaterials/) (Spring 2019; University College: Washington University in St. Louis)
 
 <table align="left">
-  <tr><td><a href="https://drive.google.com/file/d/1CYO9-Iaa0MWz0T_KdHznE_DUK8g-ZhMu" target="_blank"> <img src="icons16/pdf-icon.png" alt="hi" class="inline"/> Syllabus </a></td></tr>
+  <tr><td><a href="https://drive.google.com/open?id=1CYO9-Iaa0MWz0T_KdHznE_DUK8g-ZhMu" target="_blank"> <img src="icons16/pdf-icon.png" alt="hi" class="inline"/> Syllabus </a></td></tr>
 </table><br/>
 
 - Introduction to International Politics (Fall 2018; University College: Washington University in St. Louis)
