@@ -76,10 +76,28 @@ Religious organizations that pursue a political agenda must coordinate the deman
 
 **Ziegler, Jeffrey** & David Carlson. ”The Role of Credible Elections and Indirect Expropriation in Explaining International Investment Treaty Violations”.
 
-Bechtel, Michael M. & **Jeffrey Ziegler**. ”How Political Is International Financial Assistance?”.
+<details><summary> Abstract </summary>
+<br/><p>
+Democracies are thought to violate treaties less frequently than non-democracies, yet democracies violate bilateral international investment treaties (BITs) more often. Though democratic governments may intend to meet their international obligations, and though democratic institutions provide greater political constraints to encourage compliance, investment agreements may conflict with the goal of maintaining domestic public support. Specifically, we argue that credible elections create strong incentives for governments to side with domestic voters over foreign business interests, and to pass legislation that violates investment agreements. We use a data set of BIT violation complaints that better captures potential indirect expropriation to confirm prior findings that show a difference in violations by regime type. Importantly, however, governments are only more likely to violate BITs as credible elections approach, which suggests that the ability of voters to sanction leaders is an important mechanism that incentivizes governments to pass legislation that potentially violates investment treaties through indirect expropriation.
+</p><br/>
+</details>
+<br/>
+Bechtel, Michael M. & **Jeffrey Ziegler**. ”International Financial Assistance, Natural Disasters, and Non-Governmental Organizations”.
 
+<details><summary> Abstract </summary>
+<br/><p>
+To what extent does international financial assistance reflect concerns based on strategic political interests? We propose a political efficiency argument in which countries prioritize the needs of countries that are moderately aligned politically when distributing financial aid. We explore this question by studying how governments respond to natural disasters in foreign countries. We find that even when carefully accounting for affectedness and need, donor countries provide most disaster relief to countries whose policy views are moderately aligned with those of the donor government. In addition, these assistance efforts are significantly more likely to be channeled through non-governmental organizations, thereby bypassing the recipient country’s government. These patterns suggest that international disaster relief may be explained by a political efficiency logic that is at least partly driven by humanitarian considerations and does not exclusively constitute a way for donor countries to trade money for political influence.
+</p><br/>
+</details>
+<br/>
 Gabel, Matthew & **Jeffrey Ziegler**. ”Automating the Complaw Database: Exploring the Limits and Possibilities of Replacing Human Coders”.
 
+<details><summary> Abstract </summary>
+<br/><p>
+The CompLaw database provides a common coding template for describing the context and outcomes of constitutional review across courts and time. In a pilot project, Carrubba et al. (2015) show the template is reasonably successful for systematically coding the relevant information of constitutional rulings for 48 courts for one year (2003). However, the coding template relies on human coding, which severely limits its expansion. In this paper, we evaluate the potential for populating the CompLaw database through an automated process based on the publications of the courts. Automation faces a variety of hurdles related to the formatting of documents and the language used. As a test case, we examine the French Constitutional Council which has rulings and supporting documents available electronically for a long time-series and with some potentially challenging features related to variation in the format/type of rulings (e.g., \emph{ex ante} vs. \emph{ex post} review). The goal of the exercise is to learn how much of the coding can be accomplished through automation. And, where automation cannot directly identify the correct information needed to complete the database, we define an algorithm that can isolate the relevant text that a human coder would need to complete the coding. 
+</p><br/>
+</details>
+<br/>
 ### <a name="articles"></a>Grants and Awards
 
 - Graduate Research Seed Grant, Washington University in St. Louis, Department of Political Science (2018)
