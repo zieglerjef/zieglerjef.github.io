@@ -6,6 +6,10 @@ title: Contact me
 <div class="container">
 
     <div class="row-fluid">
+    
+        <div class="span4">
+	<img src="../assets/pics/harvardPresentationPic.jpeg" alt="hi" class="inline"/>
+        </div>
         <div class="span5">
             Jeff Ziegler<br/>
             <a href="http://www.polisci.wustl.edu">Department of Political Science</a><br/>
@@ -20,10 +24,5 @@ One Brookings Drive, St. Louis, MO 63130<br/>
             </b><code>stl</code><code>.</code><b>please</b><code>e</code><b>leave
             </b><code>d</code><b>me</b><b>alone</b><code>u</code><b>!</b>
 	</div>
-        </div>
-
-        <div class="span4">
-	<img src="../assets/pics/harvardPresentationPic.jpeg" alt="hi" class="inline"/>
-        </div>
     </div>
 </div>
