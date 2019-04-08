@@ -72,7 +72,6 @@ Religious organizations that pursue a political agenda must coordinate the deman
 </p><br/>
 </details>
 <br/>
-**Ziegler, Jeffrey**. ”Pope or Politician? Religious Imagery and Member Support Within the Catholic Church”.
 
 **Ziegler, Jeffrey** & David Carlson. ”The Role of Credible Elections and Indirect Expropriation in Explaining International Investment Treaty Violations”.
 
