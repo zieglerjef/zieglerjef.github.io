@@ -56,6 +56,8 @@ One of the more important innovations in the study of how citizens assess the U.
 
 ### <a name="workingPapers"></a>Working Papers
 
+**Ziegler, Jeffrey**. ”Open-Ended Responses for Attention and Manipulation Checks".
+
 **Ziegler, Jeffrey**. ”Responsiveness and Unelected Leaders: Lessons from the Catholic Church".
 
 <details><summary> Abstract </summary>
