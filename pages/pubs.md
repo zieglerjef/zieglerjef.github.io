@@ -97,7 +97,7 @@ The CompLaw database provides a common coding template for describing the contex
 </p><br/>
 </details>
 <br/>
-### <a name="articles"></a>Grants and Awards
+### <a name="grants"></a>Grants and Awards
 
 - Graduate Research Seed Grant, Washington University in St. Louis, Department of Political Science (2018)
 
