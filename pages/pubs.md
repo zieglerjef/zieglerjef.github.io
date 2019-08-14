@@ -77,7 +77,7 @@ Religious organizations that pursue a political agenda must coordinate the deman
 
 <details><summary> Abstract </summary>
 <br/><p>
-Democracies are thought to violate treaties less frequently than non-democracies, yet democracies violate bilateral international investment treaties (BITs) more often. Though democratic governments may intend to meet their international obligations, and though democratic institutions provide greater political constraints to encourage compliance, investment agreements may conflict with the goal of maintaining domestic public support. Specifically, we argue that credible elections create strong incentives for governments to side with domestic voters over foreign business interests, and to pass legislation that violates investment agreements. We use a data set of BIT violation complaints that better captures potential indirect expropriation to confirm prior findings that show a difference in violations by regime type. Importantly, however, governments are only more likely to violate BITs as credible elections approach, which suggests that the ability of voters to sanction leaders is an important mechanism that incentivizes governments to pass legislation that potentially violates investment treaties through indirect expropriation.
+Democracies are thought to violate treaties less frequently than non-democracies, yet democracies violate bilateral investment treaties (BITs) more often. Though democratic governments may intend to meet their international obligations, and though democratic institutions provide greater political constraints to encourage compliance, investment agreements may conflict with the goal of maintaining domestic public support. Specifically, we argue that credible elections create strong incentives for governments to side with domestic voters over foreign business interests, and to pass legislation that violates investment agreements. We use a data set of BIT violation complaints that better captures potential indirect expropriation to confirm prior findings that show a difference in violations by regime type. Importantly, however, governments are only more likely to violate BITs as credible elections approach. The results suggest that the ability of voters to sanction leaders is an important mechanism that incentivizes governments to potentially violate investment treaties through indirect expropriation.
 </p><br/>
 </details>
 <br/>
@@ -97,7 +97,7 @@ The CompLaw database provides a common coding template for describing the contex
 </p><br/>
 </details>
 <br/>
-### <a name="articles"></a>Grants and Awards
+### <a name="grants"></a>Grants and Awards
 
 - Graduate Research Seed Grant, Washington University in St. Louis, Department of Political Science (2018)
 
