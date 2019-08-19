@@ -7,7 +7,7 @@ title: Welcome!
 	<div class="row-fluid">
 		<div class="span6">
 	
-Currently I’m a PhD Candidate in Political Science and a Graduate Affiliate of the <i>John C. Danforth Center on Religion and Politics</i> at Washington University in St. Louis. I broadly study questions of legitimacy, accountability, and responsiveness related to political economy, empirical legal studies, as well as religion and politics.<br/><br/>
+Currently, I’m a Post-Doctoral Fellow in the Institute for Quantitative Theory and Methods at Emory University. I received my PhD in Political Science from Washington University in St. Louis, where I was also a Graduate Affiliate of the <i>John C. Danforth Center on Religion and Politics</i>. I broadly study questions of legitimacy, accountability, and responsiveness related to political economy, empirical legal studies, as well as religion and politics.<br/><br/>
 
 Specifically, my dissertation explores how religious groups like the Catholic Church use their public rhetoric and bureaucratic resources to influence politics by conceptualizing them as international interest or advocacy groups. <br/><br/>
 
