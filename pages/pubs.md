@@ -14,7 +14,7 @@ description: Jeffrey Ziegler's research
     </div>
 </div>
 
-Download <a href="https://drive.google.com/open?id=1tBMW3yqCl2WfRwRRfyTYkDypJOkOb961" target="_blank">	CV <img src="icons16/pdf-icon.png" alt="hi" class="inline"/> </a>
+Download <a href="https://www.dropbox.com/s/rknu9o58ek8nh38/JeffZiegler_Public_CV.pdf?dl=0" target="_blank">	CV <img src="icons16/pdf-icon.png" alt="hi" class="inline"/> </a>
 
 ### <a name="articles"></a>Journal Articles
 
