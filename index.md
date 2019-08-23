@@ -14,7 +14,7 @@ Specifically, my dissertation explores how religious groups like the Catholic Ch
 This site mainly includes info about my research and teaching. Feel free to <a href="https://zieglerjef.github.io/pages/about.html">contact me</a> with any comments or questions!<br/><br/>
 
 <table align="left">
-  <tr><td><a href="https://drive.google.com/open?id=1tBMW3yqCl2WfRwRRfyTYkDypJOkOb961" target="_blank"> <img src="pages/icons32/pdf-icon.png" alt="hi" class="inline"/>CV</a></td>
+  <tr><td><a href="https://www.dropbox.com/s/rknu9o58ek8nh38/JeffZiegler_Public_CV.pdf?dl=0" target="_blank"> <img src="pages/icons32/pdf-icon.png" alt="hi" class="inline"/>CV</a></td>
 	  <td></td>	  <td></td>  <td></td>
 	<td><a href="https://scholar.google.com/citations?user=PE2j3DcAAAAJ&hl=sv)" target="_blank"> <img src="pages/icons32/google-icon.png" alt="hi" class="inline"/>Scholar</a></td>
 	  <td></td>	  <td></td>  <td></td>
