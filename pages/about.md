@@ -12,10 +12,10 @@ title: Contact me
         </div>
         <div class="span5">
             Jeff Ziegler<br/>
-            <a href="http://www.polisci.wustl.edu">Department of Political Science</a><br/>
-            <a href="http://www.wustl.edu">Washington University in St. Louis</a><br/>
-            Seigle Hall Campus Box 1063 <br/>
-One Brookings Drive, St. Louis, MO 63130<br/>
+            <a href="http://www.quantitative.emory.edu/">Institute for Quantitative Theory and Methods</a><br/>
+            <a href="http://www.emory.edu">Emory University</a><br/>
+           405A Modern Languages Building  <br/>
+532 Kilgo Circle Atlanta, GA 30322<br/>
 
             USA<br/><br/>
 
