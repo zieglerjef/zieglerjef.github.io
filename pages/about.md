@@ -20,8 +20,8 @@ title: Contact me
             USA<br/><br/>
 
             <div id="hide_email">
-            Email: <code>jeffrey</code><b>I</b><code>ziegler</code><b>don't</b><code>@</code><b>want</b><code>wu</code><b>spam!
-            </b><code>stl</code><code>.</code><b>please</b><code>e</code><b>leave
+            Email: <code>jeffrey</code><b>I</b><code>ziegler</code><b>don't</b><code>@</code><b>want</b><code>emo</code><b>spam!
+            </b><code>ry</code><code>.</code><b>please</b><code>e</code><b>leave
             </b><code>d</code><b>me</b><b>alone</b><code>u</code><b>!</b>
 	</div>
     </div>
