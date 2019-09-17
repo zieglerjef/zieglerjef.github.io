@@ -56,6 +56,14 @@ One of the more important innovations in the study of how citizens assess the U.
 
 ### <a name="workingPapers"></a>Working Papers
 
+**Ziegler, Jeffrey**. ”A Text-As-Data Approach for Using Open-Ended Responses as Manipulation Checks".
+
+<details><summary> Abstract </summary>
+<br/><p>
+Social scientists more frequently take advantage of online work forces to test theoretical claims, yet remote respondents are often inattentive, which can hinder researchers’ ability to draw substantive or causal inferences. Though researchers are aware of this potential estimation bias, there are few proposed solutions beyond the inclusion of multiple factual or informational questions. Researchers then often remove inattentive respondents from the sample based on their inability to answer manipulation checks, potentially causing researcher induced post-treatment bias. In response to these shortcomings, I develop a cost-effective and standardized methodology that relies on the text provided by respondents from open-ended manipulation checks as data. This approach reduces the need for subjective, paid humans to analyze open-ended text and does not require researchers to drop participants that would fail a traditional manipulation check. I additionally develop a package in `R` to help practitioners diagnose inattentive online workers as well as estimate the impact of their inattention on the outcome question(s).
+</p><br/>
+</details>
+<br/>	
 **Ziegler, Jeffrey**. ”Responsiveness and Unelected Leaders: Lessons from the Catholic Church".
 
 <details><summary> Abstract </summary>
