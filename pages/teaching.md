@@ -14,7 +14,7 @@ description: Jeff Ziegler's teaching
 </div>
 ### <a name="instructor"></a>Instructor
 
-- [Introduction to Quantitative Methods](Spring 2019; University College: Washington University in St. Louis)
+- Introduction to Quantitative Methods (Spring 2019; University College: Washington University in St. Louis)
 
 <table align="left">
   <tr><td><a href="https://www.dropbox.com/s/5e62lkb6ctsisii/JZ_Syllabus_QPM_Spring2019.pdf?dl=0" target="_blank"> <img src="icons16/pdf-icon.png" alt="hi" class="inline"/> Syllabus </a></td></tr>
