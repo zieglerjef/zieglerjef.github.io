@@ -13,16 +13,17 @@ description: Jeff Ziegler's teaching
     </div>
 </div>
 ### <a name="instructor"></a>Instructor
-- [Introduction to Quantitative Methods](https://zieglerjef.github.io/pages/QPMteachingMaterials/) (Spring 2019; University College: Washington University in St. Louis)
+
+- [Introduction to Quantitative Methods](Spring 2019; University College: Washington University in St. Louis)
 
 <table align="left">
-  <tr><td><a href="https://drive.google.com/open?id=1CYO9-Iaa0MWz0T_KdHznE_DUK8g-ZhMu" target="_blank"> <img src="icons16/pdf-icon.png" alt="hi" class="inline"/> Syllabus </a></td></tr>
+  <tr><td><a href="https://www.dropbox.com/s/5e62lkb6ctsisii/JZ_Syllabus_QPM_Spring2019.pdf?dl=0" target="_blank"> <img src="icons16/pdf-icon.png" alt="hi" class="inline"/> Syllabus </a></td></tr>
 </table><br/>
 
 - Introduction to International Politics (Fall 2018; University College: Washington University in St. Louis)
 
 <table align="left">
-  <tr><td><a href="https://drive.google.com/open?id=109HUKdaSUzgvrSUJ2Vcd_KRAh_qXQ8zR" target="_blank"> <img src="icons16/pdf-icon.png" alt="hi" class="inline"/> Syllabus </a></td></tr>
+  <tr><td><a href="https://www.dropbox.com/s/k8ccp15fsb9wsar/Syllabus%20Intro%20IR%20Fall%202018.pdf?dl=0" target="_blank"> <img src="icons16/pdf-icon.png" alt="hi" class="inline"/> Syllabus </a></td></tr>
 </table><br/>
 
 ### <a name="TA"></a>Teaching assistant
