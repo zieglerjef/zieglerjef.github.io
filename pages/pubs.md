@@ -24,9 +24,9 @@ the ’Rule, Learn, Update’ Model of Political Communication”. *American Pol
 <table align="left">
   <tr><td><a href="http://journals.sagepub.com/doi/full/10.1177/1532673X17702353" target="_blank"> <img src="icons16/html-icon.png" alt="hi" class="inline"/> Link </a></td>
 	  <td></td>	  <td></td>  <td></td>
-	<td><a href="https://drive.google.com/file/d/1YHqTlVkxxMtOSetTqnR4V8dhUR-LXqXT/view" target="_blank"> <img src="icons16/pdf-icon.png" alt="hi" class="inline"/> Download</a></td>
+	<td><a href="https://www.dropbox.com/s/1wq07kzo494s3pt/Gibson%2C%20Pereira%2C%20and%20Ziegler%202017.pdf?dl=0" target="_blank"> <img src="icons16/pdf-icon.png" alt="hi" class="inline"/> Download</a></td>
 	  <td></td>	  <td></td>  <td></td>
-	<td><a href="https://drive.google.com/file/d/1OrwLIBFuznTYT0aKuaF_1aXoW58N0UUM/view" target="_blank"> <img src="icons16/supp-icon.png" alt="hi" class="inline"/> Supplementary Materials</a></td></tr>
+	<td><a href="https://www.dropbox.com/s/gh0l4evmnd3xlj2/Appendix_Gibson%2C%20Pereira%2C%20and%20Ziegler%202017.pdf?dl=0" target="_blank"> <img src="icons16/supp-icon.png" alt="hi" class="inline"/> Supplementary Materials</a></td></tr>
 </table><br/>
 
 <details><summary> Abstract </summary>
@@ -101,7 +101,7 @@ Gabel, Matthew & **Jeffrey Ziegler**. ”Automating the CompLaw Database: Explor
 
 <details><summary> Abstract </summary>
 <br/><p>
-The CompLaw database provides a common coding template for describing the context and outcomes of constitutional review across courts and time. In a pilot project, Carrubba et al. (2015) show the template is reasonably successful for systematically coding the relevant information of constitutional rulings for 48 courts for one year (2003). However, the coding template relies on human coding, which severely limits its expansion. In this paper, we evaluate the potential for populating the CompLaw database through an automated process based on the publications of the courts. Automation faces a variety of hurdles related to the formatting of documents and the language used. As a test case, we examine the French Constitutional Council which has rulings and supporting documents available electronically for a long time-series and with some potentially challenging features related to variation in the format/type of rulings (e.g., *ex ante* vs. *ex post* review). The goal of the exercise is to learn how much of the coding can be accomplished through automation. And, where automation cannot directly identify the correct information needed to complete the database, we define an algorithm that can isolate the relevant text that a human coder would need to complete the coding. 
+The CompLaw database provides a common coding template for describing the context and outcomes of constitutional review across courts and time. In a pilot project, Carrubba et al. (2015) show the template is reasonably successful for systematically coding the relevant information of constitutional rulings for 48 courts for one year (2003). However, the coding template relies on human coding, which severely limits its expansion. In this paper, we evaluate the potential for populating the CompLaw database through an automated process based on the publications of the courts. Automation faces a variety of hurdles related to the formatting of documents and the language used. As a test case, we examine the French Constitutional Council which has rulings and supporting documents available electronically for a long time-series and with some potentially challenging features related to variation in the format/type of rulings (e.g., <i>ex ante</i> vs. <i>ex post</i> review). The goal of the exercise is to learn how much of the coding can be accomplished through automation. And, where automation cannot directly identify the correct information needed to complete the database, we define an algorithm that can isolate the relevant text that a human coder would need to complete the coding. 
 </p><br/>
 </details>
 <br/>
