@@ -89,11 +89,11 @@ Democracies are thought to violate treaties less frequently than non-democracies
 </p><br/>
 </details>
 <br/>
-Bechtel, Michael M. & **Jeffrey Ziegler**. ”International Financial Assistance, Natural Disasters, and Non-Governmental Organizations”.
+Bechtel, Michael M. & **Jeffrey Ziegler**. ”Foreign Policy Interests and International Disaster Assistance”.
 
 <details><summary> Abstract </summary>
 <br/><p>
-To what extent does international financial assistance reflect concerns based on strategic political interests? We propose a political efficiency argument in which countries prioritize the needs of countries that are moderately aligned politically when distributing financial aid. We explore this question by studying how governments respond to natural disasters in foreign countries. We find that even when carefully accounting for affectedness and need, donor countries provide most disaster relief to countries whose policy views are moderately aligned with those of the donor government. In addition, these assistance efforts are significantly more likely to be channeled through non-governmental organizations, thereby bypassing the recipient country’s government. These patterns suggest that international disaster relief may be explained by a political efficiency logic that is at least partly driven by humanitarian considerations and does not exclusively constitute a way for donor countries to trade money for political influence.
+How does international financial assistance reflect strategic political interests? The “buying influence” argument predicts that countries provide more support to gov- ernments that pursue antithetical foreign policy objectives to induce favorable policy shifts. However, such efforts seem unlikely to persuade highly antithetical governments to engage in drastic policy changes and may not be necessary if a recipient country already pursues compatible foreign policies. We analyze international responses by OECD countries to natural disasters using data from 2000 to 2014. The findings suggest that donors provide more relief to countries whose foreign policies are moderately aligned. We also explore donors’ delivery tactics and find that the share of aid provided directly to the recipient country’s government instead of non-governmental organizations increases with greater political affinity. Overall, the pattern in which strategic interests and international assistance are related seems more consistent with a political efficiency logic than with the standard buying influence argument.
 </p><br/>
 </details>
 <br/>
