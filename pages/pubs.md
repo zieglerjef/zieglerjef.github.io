@@ -64,14 +64,7 @@ Social scientists more frequently take advantage of online workforces to test th
 </p><br/>
 </details>
 <br/>	
-**Ziegler, Jeffrey**. ”Responsiveness and Unelected Leaders: Lessons from the Catholic Church".
 
-<details><summary> Abstract </summary>
-<br/><p>
-Are leaders responsive to their members' preferences over time, even when formal accountability mechanisms such as elections are weak or absent? Unelected leaders, especially religious leaders, typically influence their supporters' preferences, yet I suggest they should also have strong incentives to be responsive because they rely on dedicated, core members for legitimacy, volunteerism, and financial support. I test this argument by first analyzing over 10,000 papal messages to confirm the papacy is responsive to Catholic public opinion. I then conduct survey experiments using nationally representative samples of Catholics in Brazil and Mexico to show that members increase their organizational trust and participation as a function of their existing organizational commitment, and the anticipated cost of support. The evidence suggests that leaders have incentives to be responsive besides elections, although there may be limits to the benefits that members provide in return.
-</p><br/>
-</details>
-<br/>
 **Ziegler, Jeffrey**. ”The Expansion of the Catholic Church: Serving Members, Eliminating Competition, or Lobbying Allies?”.
 
 <details><summary> Abstract </summary>
