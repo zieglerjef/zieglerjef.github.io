@@ -14,8 +14,14 @@ description: Jeff Ziegler's teaching
 </div>
 ### <a name="instructor"></a>Instructor
 
+- <a href="https://zieglerjef.github.io/pages/QTM200teachingMaterials/" target="_blank"> Applied Regression Analysis </a> (Spring 2020; Emory University)
 
-- Legislative Accountability Lab (Fall 2019; Emory University, co-instructed with Clifford Carrubba)
+
+<table align="left">
+  <tr><td><a href="https://www.dropbox.com/s/qg5cjagr9upswt3/SyllabusQTM200Spring2020.pdf?dl=0" target="_blank"> <img src="icons16/pdf-icon.png" alt="hi" class="inline"/> Syllabus </a></td></tr>
+</table><br/>
+
+- Legislative Accountability Lab (Fall 2019, Spring 2020; Emory University, co-instructed with Clifford Carrubba)
 
 
 <table align="left">
