@@ -18,26 +18,25 @@ description: Jeff Ziegler's teaching
 
 <table style="margin-left: 40px">
   <tr><td><a href="https://www.dropbox.com/s/qg5cjagr9upswt3/SyllabusQTM200Spring2020.pdf?dl=0" target="_blank"> <img src="icons16/pdf-icon.png" alt="hi" class="inline"/> Syllabus </a></td></tr>
-</table><br/>
+</table>
 
 - Legislative Accountability Lab (Fall 2019, Spring 2020; Emory University, co-instructed with Clifford Carrubba)
 
-
-<table align="left">
+<table style="margin-left: 40px">
   <tr><td><a href="https://www.dropbox.com/s/rrdinmj5quu6whi/SyllabusCompLegFall2019.pdf?dl=0" target="_blank"> <img src="icons16/pdf-icon.png" alt="hi" class="inline"/> Syllabus </a></td></tr>
-</table><br/>
+</table>
 
 - Introduction to Quantitative Methods (Spring 2019; University College: Washington University in St. Louis)
 
-<table align="left">
+<table style="margin-left: 40px">
   <tr><td><a href="https://www.dropbox.com/s/5e62lkb6ctsisii/JZ_Syllabus_QPM_Spring2019.pdf?dl=0" target="_blank"> <img src="icons16/pdf-icon.png" alt="hi" class="inline"/> Syllabus </a></td></tr>
-</table><br/>
+</table>
 
 - Introduction to International Politics (Fall 2018; University College: Washington University in St. Louis)
 
-<table align="left">
+<table style="margin-left: 40px">
   <tr><td><a href="https://www.dropbox.com/s/k8ccp15fsb9wsar/Syllabus%20Intro%20IR%20Fall%202018.pdf?dl=0" target="_blank"> <img src="icons16/pdf-icon.png" alt="hi" class="inline"/> Syllabus </a></td></tr>
-</table><br/>
+</table>
 
 ### <a name="TA"></a>Teaching assistant
 
