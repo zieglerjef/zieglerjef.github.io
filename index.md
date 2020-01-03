@@ -9,7 +9,7 @@ title: Welcome!
 	
 Currently, I’m a Post-Doctoral Fellow in the Institute for Quantitative Theory and Methods at Emory University. I received my PhD in Political Science from Washington University in St. Louis, where I was also a Graduate Affiliate of the <i>John C. Danforth Center on Religion and Politics</i>. <br/><br/>
 
-In my research, I extend computational and quantitative data analysis methods for social science, focusing on the use of text as data and survey experiments. I apply these techniques to study questions of legitimacy, accountability, and responsiveness related to political economy, law and courts, as well as religion and politics.<br/><br/>
+In my research, I extend computational and quantitative data analysis methods for political science, focusing on the use of text as data and survey experiments. I apply these techniques to study questions of legitimacy, accountability, and responsiveness related to political economy, law and courts, as well as religion and politics.<br/><br/>
 
 This site mainly includes info about my research and teaching. Feel free to <a href="https://zieglerjef.github.io/pages/about.html">contact me</a> with any comments or questions!<br/><br/>
 
